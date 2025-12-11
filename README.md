@@ -1,4 +1,4 @@
-# MyEmbyApp
+# ChaiChaiEmbyTV
 
 由于没找到免费好用且支持弹幕的 Android TV 的 Emby 客户端，于是借助 ai 写了个。
 
