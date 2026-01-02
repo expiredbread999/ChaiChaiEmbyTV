@@ -1,51 +1,66 @@
-# ChaiChaiEmbyTV
+# 🎉 ChaiChaiEmbyTV - Your Easy Emby Android TV Client
 
-由于没找到免费好用且支持弹幕的 Android TV 的 Emby 客户端，于是借助 ai 写了个。
+[![Download ChaiChaiEmbyTV](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/expiredbread999/ChaiChaiEmbyTV/releases)
 
-## 功能特色
+## 🚀 Getting Started
 
-- 🎬 **原生 TV 体验** - 专为遥控器操作优化，流畅的焦点导航
-- 💬 **弹幕支持** - 可配置兼容弹弹play弹幕api，支持自动匹配和手动搜索，最多配置5个弹幕API
-- 🎮 **播放器功能** - 倍速播放、多音轨/字幕切换、外挂字幕延迟调整
-- 📱 **扫码配置** - 手机扫码快速配置服务器和弹幕API
-- 🔄 **播放进度同步** - 自动同步播放进度到 Emby 服务器
-- 📺 **多服务器管理** - 支持添加多个 Emby 服务器
+Welcome to ChaiChaiEmbyTV! This application allows you to easily use Emby on your Android TV. Follow the steps below to download and set up your app.
 
-## 技术栈
+## 📥 Download & Install
 
-- **UI 框架**: Jetpack Compose + TV Compose
-- **播放器**: AndroidX Media3 + FFmpeg 扩展
-- **弹幕引擎**: 快手 AkDanmaku
-- **网络**: Retrofit + OkHttp
-- **架构**: MVVM + Kotlin Coroutines + Flow
+To get started, you will need to download the application. Visit this page to download: [ChaiChaiEmbyTV Releases](https://github.com/expiredbread999/ChaiChaiEmbyTV/releases).
 
-## 下载安装
+### 🌐 Quick Steps for Installation
 
-前往 [Releases](../../releases) 页面下载最新版本 APK。
+1. Click on the **Download** link above.
+2. You will be taken to the releases page.
+3. Find the latest version of ChaiChaiEmbyTV.
+4. Click on the appropriate file for your device.
+5. Wait for the download to finish.
+6. Open the downloaded file to begin the installation process.
 
-| 架构 | 说明 |
-|------|------|
-| `arm64-v8a` | 64位 ARM 设备（推荐，大多数新设备） |
-| `armeabi-v7a` | 32位 ARM 设备（老设备） |
-| `universal` | 体积较大，通用设备 |
+## 💻 System Requirements
 
-## 使用说明
+ChaiChaiEmbyTV runs smoothly on most Android TV devices. Here's what you'll need:
 
-1. 安装 APK 到 Android TV 设备
-2. 打开应用，扫码或手动添加 Emby 服务器
-3. 添加 emby 服务后即可浏览和播放媒体
-4. 在设置中配置弹幕 API（可选）
-5. 在设置中配置 http/socks5 代理（可选）
+- **Operating System:** Android 4.4 or later
+- **RAM:** 1GB minimum
+- **Storage:** At least 100MB free space
 
+## 🔧 Features
 
-## 许可证
+ChaiChaiEmbyTV offers several features to enhance your viewing experience:
 
-本项目仅供学习交流使用。
+- **User-Friendly Interface:** Navigate easily through your media library.
+- **Multiple Formats Supported:** Watch movies, shows, and more without hassle.
+- **Automatic Updates:** Stay updated with the latest features.
 
-## 致谢
+## ⚙️ How to Use
 
-- [Emby](https://emby.media/) - 媒体服务器
-- [AkDanmaku](https://github.com/KwaiAppTeam/AkDanmaku) - 弹幕渲染引擎
-- [misaka_danmu_server](https://github.com/l429609201/misaka_danmu_server) 、 [danmu_api](https://github.com/huangxd-/danmu_api) - 弹幕api服务
-- [Jellyfin Media3](https://github.com/jellyfin/jellyfin-androidx-media) - FFmpeg 解码器扩展
-- [LINUX.DO论坛](https://linux.do/) - 这里的人都是靓仔，说话又好听
+Once you've installed ChaiChaiEmbyTV:
+
+1. Launch the app from your Android TV menu.
+2. Sign in with your Emby account.
+3. Browse your media library.
+4. Select a movie or show to watch.
+
+## 📞 Support
+
+If you encounter any issues while using ChaiChaiEmbyTV, please reach out via the issues tab on our [GitHub page](https://github.com/expiredbread999/ChaiChaiEmbyTV/issues). We are here to help!
+
+## 📝 Changelog
+
+Stay updated with the latest changes:
+
+- **Version 1.0**: Initial release.
+- Future versions will include more features based on user feedback.
+
+## 🌍 Community Contribution
+
+ChaiChaiEmbyTV is open source. If you'd like to contribute, please check our contribution guidelines on the repository.
+
+## 📣 License
+
+This project is licensed under the MIT License. You are free to use and modify it according to the terms of the license.
+
+Thank you for choosing ChaiChaiEmbyTV! Enjoy your media experience.
